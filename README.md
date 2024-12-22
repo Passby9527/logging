@@ -12,3 +12,7 @@ def foo():
     # do something
     return
 ```
+
+resourse
+
+[link](https://zx7978123.medium.com/python-logging-%E6%97%A5%E8%AA%8C%E7%AE%A1%E7%90%86%E6%95%99%E5%AD%B8-60be0a1a6005)
